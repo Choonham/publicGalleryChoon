@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949016649161",
+    "project_id": "public-gallay",
+    "storage_bucket": "public-gallay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949016649161:android:fb85e7cb67ad781ba8dc18",
+        "android_client_info": {
+          "package_name": "com.publicgallerychoonham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpvg3R7ZSfk0pbUUzQmFTWVsWy0J0ioc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
